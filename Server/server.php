@@ -1,8 +1,4 @@
 <?php
-
-$ cd ~/public_html
-$ php -S localhost:8000
-
-
+echo "My first PHP script!";
 
 ?>
